@@ -3,9 +3,10 @@ module.exports = {
     {
       resolve: "smooth-doc",
       options: {
-        name: "Smooth DOC Starter",
-        description: "Use your own description...",
+        name: "CSS Untuk Desainer",
+        description: "CSS untuk Desainer",
         siteUrl: "https://example.com",
+        navItems: [{ title: 'Materi', url: '/docs/'}],
       },
     },
   ],
